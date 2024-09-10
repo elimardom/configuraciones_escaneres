@@ -3,4 +3,6 @@ config en la nube para actualizar dinamicamente config escaneres alta velocidad 
 
 Config dividido en dos: 
 - config con paths y cadenas conexion bbdd
+  - cordoba
+  - malaga 
 - config con resto paramtros: camara, coms, recorte imagen, cabecera 
