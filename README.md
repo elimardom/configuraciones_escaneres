@@ -10,6 +10,12 @@ Config dividido en dos:
 
 Existe un 3er fichero config --> listadoMaquinas.yml donde se encuentran las coincidencias SN <-> numero de maquina de escaneo
 
+# actualizaciones ota de la app de escaneo
+Cambiando la version en el config de la maquina que queremos actualizar se fuerza la actualizacion automatica del sw de escaneo.
+
+![image](https://github.com/user-attachments/assets/a6edc535-49be-459e-8534-f96bd469da89)
+
+
 # instalacion git Windows
 1. py -m pip install gitpython
 2. descargar e instalar git para windows --> https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe
