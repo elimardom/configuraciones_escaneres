@@ -30,37 +30,15 @@ camera:
     tipo_flanco: "FallingEdge"
 
 
-    # roi_cabecera_ymin: "50"
-    # roi_cabecera_ymax: "600"
-    # roi_cabecera_xmin: "500"
-    # roi_cabecera_xmax: "2000"
-
-    roi_cabecera_ymin: "360"
-    roi_cabecera_ymax: "860"
+    roi_cabecera_ymin: "20"
+    roi_cabecera_ymax: "420"
     roi_cabecera_xmin: "600"
     roi_cabecera_xmax: "2030"
 
-    # desde_x: "77"
-    # hasta_x: "2350"
-    # desde_y: "100"
-    # hasta_y: "3930"
     desde_x: "80"
-    hasta_x: "2770"
-    desde_y: "340"
-    hasta_y: "4015"
+    hasta_x: "2750"
+    desde_y: "350"
+    hasta_y: "3885"
 
     t_line_debouncing: "1000000"
 
-    # new == mars4096-l28 --> maquina 1
-        # trigger_camera: "33500"
-        # f_camera: "18000"
-        # roi_camera: "2450"
-        # reverse_x_camera: "1"    
-    # old == mars4096-l26 --> maquina 2
-        # trigger_camera: "44000"
-        # f_camera: "22000"
-        # roi_camera: "2700"
-        # reverse_x_camera: "0"
-arduino:
-    COM: "COM9"
-    # COM6 en maquina_chapa / COM4 en maquina_cinta
