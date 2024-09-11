@@ -10,7 +10,7 @@ maquina:
     ubicacion: "Cordoba"
     novedades_maquina: "nuevo sistema amortiguado / chapas guia superiores e inferiores / "
     ultima_revision: "06.09.2024: etiqueta inteligente"
-    version_sw: "11092024.1"
+    version_sw: "11092024.2"
 
 funcionamiento:
     modo_interfaz_exe: "Produccionn"
