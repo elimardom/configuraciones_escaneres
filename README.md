@@ -12,7 +12,11 @@ Existe un 3er fichero config --> listadoMaquinas.yml donde se encuentran las coi
 
 # actualizaciones ota de la app de escaneo
 Cambiando la version en el config de la maquina que queremos actualizar se fuerza la actualizacion automatica del sw de escaneo.
+- main_camara_funciones.exe --> ejecutable de la aplicacion compilada
+- launcher.exe --> para pivotar entre la version de sw antigua y la nueva recogida de Git
 
+el launcher tambien se actualiza de manera remota 
+  
 ![image](https://github.com/user-attachments/assets/a6edc535-49be-459e-8534-f96bd469da89)
 
 
