@@ -1,8 +1,13 @@
 version: 0.1.0
 maquina: 
     numero_maquina: 6
+    numero_maquina_bbdd: '8'
+    #maquina_escaneo -> 2: maquina1
+    #                -> 11: maquina2
+    #                -> 5: maquina3
+    #                -> 8: maquina4
     puesta_pro: "Septiembre24"
-    configuracion: "Cordoba"
+    ubicacion: "Cordoba"
     novedades_maquina: "nuevo sistema amortiguado / chapas guia superiores e inferiores / "
     ultima_revision: "06.09.2024: etiqueta inteligente"
 
