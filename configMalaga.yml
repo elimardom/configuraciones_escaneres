@@ -1,1 +1,33 @@
+paths:
+    path_local_miniaturas: "C:/imagenes_out_min/"
+    path_local_miniaturas_resizes: "C:/imagenes_out_miniaturas_resizes/"
+    # path_local_miniaturas: "C:/imagenes_out_test_1/"
+    # path_remoto_fotos: "C:/imagenes_out_test_2/"
+    # path_remoto_fotos: "Z:/test_escaner_nuevo/"
+    path_remoto_fotos_PRO: "Z:/temporalXXI/"
+    path_remoto_fotos_TEST: "C:/imagenes_out_ori/"
+
+    #bbdd escaneo
+sqlserver_minox:
+    SERVER: 'bbdd.malaga.inda.es'
+    #SERVER: 'bbdd-aglistener.inda.es'
+    DB : 'Minox'
+    USER : 'escaneo'
+    PASS : 'Salmorejo1'
+    # USER : 'scan_fact'
+    # PASS : 'Esparrago14'
+    BANDERA_PRO: '1'
+    
+sqlserver_farmame:
+    SERVER: 'bbdd.malaga.inda.es'
+    #SERVER : 'bbdd-aglistener.inda.es'
+    DB: 'Farmame'
+    # USER = 'electronica'
+    # PASS = 'Salmorejo1'
+    USER: 'electronica'
+    PASS: 'Salmorejo1'
+    BANDERA_PRO: '1'
+
+usuarios_ignorados:
+    USUARIOS: ["Angel","Jose Enrique","Felipe","Antonio","Herminio","Jose","Eladia","MORENO RAMIREZ","GARCIA SANCHEZ","vicky ","alvaro","lilia","cristobal","mercedes","jo","carmenhija"]
 
