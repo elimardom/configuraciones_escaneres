@@ -17,11 +17,7 @@ sqlserver_minox:
     # USER : 'scan_fact'
     # PASS : 'Esparrago14'
     BANDERA_PRO: '1'
-    MAQUINA_ESCANEO: '8'
-#maquina_escaneo -> 2: maquina1
-#                -> 11: maquina2
-#                -> 5: maquina3
-#                -> 8: maquina4
+    
 sqlserver_farmame:
     # SERVER: 'bbdd.malaga.inda.es'
     SERVER : 'bbdd-aglistener.inda.es'
