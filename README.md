@@ -6,4 +6,6 @@ Config dividido en dos:
 - config con paths y cadenas conexion bbdd
   - cordoba
   - malaga 
-- config con resto paramtros: camara, coms, recorte imagen, cabecera 
+- config con resto paramtros: camara, coms, recorte imagen, cabecera
+
+Existe un 3er fichero config --> listadoMaquinas.yml donde se encuentran las coincidencias SN <-> numero de maquina de escaneo
