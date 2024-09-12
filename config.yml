@@ -1,0 +1,90 @@
+version: 0.1.0
+paths:
+    path_local_miniaturas: "C:/imagenes_out_min/"
+    path_local_miniaturas_resizes: "C:/imagenes_out_miniaturas_resizes/"
+    # path_local_miniaturas: "C:/imagenes_out_test_1/"
+    # path_remoto_fotos: "C:/imagenes_out_test_2/"
+    # path_remoto_fotos: "Z:/test_escaner_nuevo/"
+    path_remoto_fotos_PRO: "Z:/temporalXXI/"
+    path_remoto_fotos_TEST: "C:/imagenes_out_ori/"
+funcionamiento:
+    modo_interfaz_exe: "Produccion"
+    #Test
+    #Produccion
+    #Ambos
+camera:
+    model_camera: "mars4096-l28"
+    trigger_camera: "25000"
+    f_camera: "23000"
+    roi_camera_h: "2650"
+    reverse_x_camera: "1"
+    #comunes ambas camaras
+    roi_camera_w: "4096"
+    t_exposicion_camera: "33"
+    t_timeout_camera: "3000"
+    # tipo_flanco: "RisingEdge"
+    tipo_flanco: "FallingEdge"
+
+
+    # roi_cabecera_ymin: "50"
+    # roi_cabecera_ymax: "600"
+    # roi_cabecera_xmin: "500"
+    # roi_cabecera_xmax: "2000"
+
+    roi_cabecera_ymin: "20"
+    roi_cabecera_ymax: "420"
+    roi_cabecera_xmin: "600"
+    roi_cabecera_xmax: "2030"
+
+    # desde_x: "77"
+    # hasta_x: "2350"
+    # desde_y: "100"
+    # hasta_y: "3930"
+    desde_x: "0"
+    hasta_x: "2650"
+    desde_y: "130"
+    hasta_y: "3896"
+
+    t_line_debouncing: "1000000"
+
+    # new == mars4096-l28 --> maquina 1
+        # trigger_camera: "33500"
+        # f_camera: "18000"
+        # roi_camera: "2450"
+        # reverse_x_camera: "1"    
+    # old == mars4096-l26 --> maquina 2
+        # trigger_camera: "44000"
+        # f_camera: "22000"
+        # roi_camera: "2700"
+        # reverse_x_camera: "0"
+arduino:
+    COM: "COM3"
+    # COM6 en maquina_chapa / COM4 en maquina_cinta
+#bbdd escaneo
+sqlserver_minox:
+    # SERVER: 'bbdd.malaga.inda.es'
+    SERVER: 'bbdd-aglistener.inda.es'
+    DB : 'Minox'
+    USER : 'escaneo'
+    PASS : 'Salmorejo1'
+    # USER : 'scan_fact'
+    # PASS : 'Esparrago14'
+    BANDERA_PRO: '1'
+    MAQUINA_ESCANEO: '5'
+#maquina_escaneo -> 2: maquina1
+#                -> 11: maquina2
+#                -> 5: maquina3
+#                -> 8: maquina4
+sqlserver_farmame:
+    # SERVER: 'bbdd.malaga.inda.es'
+    SERVER : 'bbdd-aglistener.inda.es'
+    DB: 'Farmame'
+    # USER = 'electronica'
+    # PASS = 'Salmorejo1'
+    USER: 'electronica'
+    PASS: 'Salmorejo1'
+    BANDERA_PRO: '1'
+
+usuarios_ignorados:
+    # USUARIOS: ["Angel","Jose Enrique","Felipe","Antonio","Herminio","Jose","Eladia","MORENO RAMIREZ","GARCIA SANCHEZ","vicky ","alvaro","lilia","cristobal","mercedes","jo","carmenhija"]
+    USUARIOS: ["Angel","Antonio","Maquina2","Maquina3","Maquina4"]
