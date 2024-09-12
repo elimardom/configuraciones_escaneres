@@ -22,6 +22,8 @@ maquina:
     perfil_camara: "0mm"
     fuente_iluminaria: "nueva/conector 4pines"
     motor_retorno: "motorac/variador"
+    driver: "tb6600/ 2as Marcas"
+    motores: "amazon/2as Marcas"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     version_sw: "12092024.4"
 
