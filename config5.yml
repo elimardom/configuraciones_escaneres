@@ -1,0 +1,44 @@
+version: 0.1.0
+maquina: 
+    numero_maquina: 5
+    numero_maquina_bbdd: '5'
+    #maquina_escaneo -> 2: maquina1
+    #                -> 11: maquina2
+    #                -> 5: maquina3
+    #                -> 8: maquina4
+    puesta_pro: "Julio24"
+    ubicacion: "Cordoba"
+    novedades_maquina: "prueba sensor con potenciometro pepperl fluchs captura foto / bandeja acero carbono oxido"
+    ultima_revision: "12.09.2024: actualizaciones ota / sync config"
+    version_sw: "11092024.6"
+
+funcionamiento:
+    modo_interfaz_exe: "Produccionn"
+    #Test
+    #Produccion
+    #Ambos
+camera:
+    model_camera: "mars4096-l28"
+    trigger_camera: "25000"
+    f_camera: "23000"
+    roi_camera_h: "2650"
+    reverse_x_camera: "1"
+    #comunes ambas camaras
+    roi_camera_w: "4096"
+    t_exposicion_camera: "33"
+    t_timeout_camera: "3000"
+    # tipo_flanco: "RisingEdge"
+    tipo_flanco: "FallingEdge"
+
+
+    roi_cabecera_ymin: "20"
+    roi_cabecera_ymax: "420"
+    roi_cabecera_xmin: "600"
+    roi_cabecera_xmax: "2030"
+
+    desde_x: "0"
+    hasta_x: "2650"
+    desde_y: "130"
+    hasta_y: "3896"
+
+    t_line_debouncing: "1000000"
