@@ -18,7 +18,7 @@ maquina:
     acople_volteador: "antiguo"
     pc: "pcv1.0"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
-    version_sw: "12092024.3"
+    version_sw: "12092024.4"
 
 funcionamiento:
     modo_interfaz_exe: "Produccionn"
