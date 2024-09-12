@@ -6,7 +6,7 @@ maquina:
     #                -> 11: maquina2
     #                -> 5: maquina3
     #                -> 8: maquina4
-    puesta_pro: "2023"
+    puesta_pro: "febrero24"
     ubicacion: "Cordoba"
     puesto: "sala_escaneo/felipe"
     novedades_maquina: "prototipo1 felipe: estructura mas larga / driver y pp antiguos "
