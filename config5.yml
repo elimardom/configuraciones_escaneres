@@ -15,10 +15,11 @@ maquina:
     caja_electronica: "2a version armario"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "pepperl fluchs potenciometro"
+    sensor_encoder: "omron"
     acople_volteador: "nuevo_acople_flexible_mejorado_tpu"
     pc: "pcv3.0"
     camara: "mars4096-l28/gris"
-    perfil_camara : "a ras"
+    perfil_camara : "0mm"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     version_sw: "12092024.2"
 
