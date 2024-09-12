@@ -29,4 +29,12 @@ el launcher tambien se actualiza de manera remota
    - %GIT_PYTHON_GIT_EXECUTABLE% --version
    - set GIT_PYTHON_GIT_EXECUTABLE=C:\Program Files\Git\cmd\git.exe
 ![image](https://github.com/user-attachments/assets/502a4c6b-c22f-4c84-b65a-33e7fe5feb35)
-4. necesario reiniciar el equipo 
+4. necesario reiniciar el equipo
+
+# preparación nueva maquina con sw ota (sw + config)
+1. instalar git punto anterior
+2. pull repositorio camara-lineal-procesos-alto-nivel para poder comprobar el SN de la maquina
+3. ejecutar serial_arduino para identificar al nuevo equipo e incluirlo en listadoMaquinas.yml
+4. configurar en el repositorio configuraciones_escaneres --> config nuevo de la maquina que se vaya a registrar --> config[NumeroMaquina].yml ej: config2.yml
+
+**el serial number detectado es el del arduino main mega --> si por mantenimiento este dispositivo se cambia hay que registrar su nuevo SN en el archivo listadoMaquinas.yml
