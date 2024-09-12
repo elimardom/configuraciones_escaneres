@@ -10,7 +10,7 @@ maquina:
     ubicacion: "Cordoba"
     novedades_maquina: "prueba sensor con potenciometro pepperl fluchs captura foto / bandeja acero carbono oxido"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
-    version_sw: "12092024.1"
+    version_sw: "12092024.2"
 
 funcionamiento:
     modo_interfaz_exe: "Produccionn"
