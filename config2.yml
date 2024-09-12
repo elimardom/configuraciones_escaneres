@@ -15,8 +15,12 @@ maquina:
     caja_electronica: "antigua"
     sensor_dobles: "chino"
     sensor_disparo_maquina: "xub4ananl2"
+    sensor_encoder: ""
     acople_volteador: "antiguo"
     pc: "pcv2.0"
+    camara: "mars4096-l26/naranja"
+    perfil_camara: "0mm"
+    fuente_iluminaria: "antigua/conector especial"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     version_sw: "12092024.4"
 
