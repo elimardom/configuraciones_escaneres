@@ -20,6 +20,7 @@ maquina:
     pc: "pcv3.0"
     camara: "mars4096-l28/gris"
     perfil_camara : "0mm"
+    fuente_iluminaria: "nueva/conector 4pines"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     version_sw: "12092024.2"
 
