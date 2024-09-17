@@ -1,1 +1,58 @@
+version: 0.1.0
+maquina: 
+    numero_maquina: 3
+    numero_maquina_bbdd: '5'
+    #maquina_escaneo -> 2: maquina1
+    #                -> 11: maquina2
+    #                -> 5: maquina3
+    #                -> 8: maquina4
+    puesta_pro: "Agosto24"
+    ubicacion: "Malaga"
+    puesto: "prox_ramon"
+    novedades_maquina: "caja de electronica v1 nueva mas pequeña"
+    freno: "estrecho/64.5"
+    bandeja: "antigua"
+    caja_electronica: "1a version armario"
+    sensor_dobles: "pepperl fluchs"
+    sensor_disparo_maquina: "xub4ananl2"
+    sensor_encoder: "omron"
+    acople_volteador: "?"
+    pc: "pcv3.0"
+    camara: "mars4096-l28/naranja"
+    perfil_camara : "?"
+    fuente_iluminaria: "nueva/conector 4pines"
+    driver: "dm542t/ stepperonline"
+    motores: "nema17/24 stepper online"
+    ultima_revision: "12.09.2024: actualizaciones ota / sync config"
+    version_sw: "12092024.2"
 
+funcionamiento:
+    modo_interfaz_exe: "Produccionn"
+    #Test
+    #Produccion
+    #Ambos
+camera:
+    model_camera: "mars4096-l28"
+    trigger_camera: "25000"
+    f_camera: "23000"
+    roi_camera_h: "2650"
+    reverse_x_camera: "1"
+    #comunes ambas camaras
+    roi_camera_w: "4096"
+    t_exposicion_camera: "33"
+    t_timeout_camera: "3000"
+    # tipo_flanco: "RisingEdge"
+    tipo_flanco: "FallingEdge"
+
+
+    roi_cabecera_ymin: "20"
+    roi_cabecera_ymax: "420"
+    roi_cabecera_xmin: "600"
+    roi_cabecera_xmax: "2030"
+
+    desde_x: "0"
+    hasta_x: "2650"
+    desde_y: "130"
+    hasta_y: "3896"
+
+    t_line_debouncing: "1000000"
