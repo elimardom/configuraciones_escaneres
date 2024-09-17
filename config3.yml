@@ -19,7 +19,7 @@ maquina:
     acople_volteador: "antiguo_gordo_completo"
     pc: "pcv3.0"
     camara: "mars4096-l28/naranja"
-    perfil_camara : "?"
+    perfil_camara : "0mm"
     fuente_iluminaria: "nueva/conector 4pines"
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
