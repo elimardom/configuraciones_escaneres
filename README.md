@@ -2,26 +2,28 @@ v_0.1.2
 # Actualizaciones OTA escanerAV -- configs + sw
 
 ### configuraciones_escaneres
-config en la nube para actualizar dinamicamente config escaneres alta velocidad en remoto.
+ficheros config en la nube para actualizar dinamicamente config escaneres alta velocidad en remoto.
+Cuando el sw de la maquina arranca lo primero que hace es traerse los cambios de la nube a local y si en el config se le indica una version nueva del sw lo actualiza tambien.
 
 Config dividido en dos: 
 - config con paths y cadenas conexion bbdd
   - cordoba
   - malaga 
-- config con resto paramtros: camara, coms, recorte imagen, cabecera
+- config con resto paramtros: camara, coms, recorte imagen, cabecera, datos tecnicos / hw de cada maquina
 
-Existe un 3er fichero config --> listadoMaquinas.yml donde se encuentran las coincidencias SN <-> numero de maquina de escaneo
+Existe un 3er fichero config --> listadoMaquinas.yml donde se encuentran las coincidencias SN <-> numero de maquina de escaneo. Esto se usa para el sw autodetectar desde que maquina estas conectandote para descargarte el config correcto.
 
 ### actualizaciones ota de la app de escaneo
 Cambiando la version en el config de la maquina que queremos actualizar se fuerza la actualizacion automatica del sw de escaneo.
 - main_camara_funciones.exe --> ejecutable de la aplicacion compilada
 - launcher.exe --> para pivotar entre la version de sw antigua y la nueva recogida de Git
+- readme.txt --> notas de version de la nueva version de sw de escaneo
 
-el launcher tambien se actualiza de manera remota 
+el launcher / readme.txt  tambien se actualiza de manera remota 
   
 ![image](https://github.com/user-attachments/assets/a6edc535-49be-459e-8534-f96bd469da89)
 
-### listado de maquinas
+### listado completo de maquinas
 https://docs.google.com/spreadsheets/d/1Iw_mzEl9yjmqyNzbYEEfjOoW9iFK4gtqPtzzd4Dr1GM/edit?usp=sharing
 
 
