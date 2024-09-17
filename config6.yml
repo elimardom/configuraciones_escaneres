@@ -8,8 +8,8 @@ maquina:
     #                -> 8: maquina4
     puesta_pro: "Septiembre24"
     ubicacion: "Cordoba"
-    puesto: "sala_taller/reserva"
-    novedades_maquina: "nuevo sistema amortiguado / chapas guia superiores e inferiores / "
+    puesto: "sala escaneo, central"
+novedades_maquina: "Freno resina, ruedas inf 2aET resina, ruedas inf camara resina, chapas laterales de fijacion de distancias"
     freno: "estrecho/64.5"
     bandeja: "nueva/acero_carbono"
     caja_electronica: "2a version armario"
