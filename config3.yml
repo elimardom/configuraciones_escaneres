@@ -16,7 +16,7 @@ maquina:
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "xub4ananl2"
     sensor_encoder: "omron"
-    acople_volteador: "?"
+    acople_volteador: "antiguo_gordo_completo"
     pc: "pcv3.0"
     camara: "mars4096-l28/naranja"
     perfil_camara : "?"
