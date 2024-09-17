@@ -21,6 +21,8 @@ el launcher tambien se actualiza de manera remota
   
 ![image](https://github.com/user-attachments/assets/a6edc535-49be-459e-8534-f96bd469da89)
 
+### listado de maquinas
+https://docs.google.com/spreadsheets/d/1Iw_mzEl9yjmqyNzbYEEfjOoW9iFK4gtqPtzzd4Dr1GM/edit?usp=sharing
 
 
 
