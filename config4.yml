@@ -9,10 +9,10 @@ maquina:
     id_anydesk: '1274053069'
     puesta_pro: "Julio24"
     ubicacion: "Malaga"
-    puesto: "puesto Rosi"
+    puesto: "puesto central"
     novedades_maquina: ""
     freno: "estrecho/64.5"
-    bandeja: "nueva/acero_carbono"
+    bandeja: "nueva/acero_inox"
     caja_electronica: "2a version armario"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "xub4ananl2"
@@ -22,13 +22,14 @@ maquina:
     camara: "mars4096-l28/naranja"
     perfil_camara : "22.5mm"
     fuente_iluminaria: "nueva/conector 4pines"
+    valor_iluminaria: '208'
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     version_sw: "12092024.2"
 
 funcionamiento:
-    modo_interfaz_exe: "Produccionn"
+    modo_interfaz_exe: "Produccion"
     #Test
     #Produccion
     #Ambos
