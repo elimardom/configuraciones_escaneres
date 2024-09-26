@@ -8,10 +8,10 @@ maquina:
     #                -> 5: maquina3
     #                -> 8: maquina4
     puesta_pro: "Julio24"
-    ubicacion: "Cordoba"
-    puesto: "sala_taller/aurora"
-    novedades_maquina: ""
-    freno: "estrecho/64.5"
+    ubicacion: "Málaga"
+    puesto: "derecha pegado a columna"
+    novedades_maquina: "rodillos salida camara de resina"
+    freno: "estrecho/64.5, tpu"
     bandeja: "nueva/acero_carbono"
     caja_electronica: "2a version armario"
     sensor_dobles: "pepperl fluchs"
@@ -22,13 +22,14 @@ maquina:
     camara: "mars4096-l28/gris"
     perfil_camara : "0mm"
     fuente_iluminaria: "nueva/conector 4pines"
+    valor_iluminaria: '198'
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     version_sw: "12092024.2"
 
 funcionamiento:
-    modo_interfaz_exe: "Produccionn"
+    modo_interfaz_exe: "Produccion"
     #Test
     #Produccion
     #Ambos
