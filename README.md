@@ -30,7 +30,7 @@ https://docs.google.com/spreadsheets/d/1Iw_mzEl9yjmqyNzbYEEfjOoW9iFK4gtqPtzzd4Dr
 
 # Para desplegar
 ### instalacion git Windows
-1. py -m pip install gitpython
+1. py -m pip install gitpython  / python -m pip install gitpython
 2. descargar e instalar git para windows --> https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe
    instalar todo por defecto al instalar git en windows
 3. ejecutar en la cmd de windows
