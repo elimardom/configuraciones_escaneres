@@ -2,6 +2,7 @@ version: 0.1.0
 maquina: 
     numero_maquina: 3
     numero_maquina_bbdd: '5'
+    id_anydesk: "1712320823"
     #maquina_escaneo -> 2: maquina1
     #                -> 11: maquina2
     #                -> 5: maquina3
