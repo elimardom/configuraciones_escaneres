@@ -34,26 +34,26 @@ funcionamiento:
     #Ambos
 camera:
     model_camera: "mars4096-l28"
-    trigger_camera: "25000"
-    f_camera: "23000"
+    trigger_camera: "22000"
+    f_camera: "21500"
     roi_camera_h: "2650"
     reverse_x_camera: "1"
     #comunes ambas camaras
     roi_camera_w: "4096"
     t_exposicion_camera: "33"
     t_timeout_camera: "3000"
-    # tipo_flanco: "RisingEdge"
-    tipo_flanco: "FallingEdge"
+    tipo_flanco: "RisingEdge"
+    # tipo_flanco: "FallingEdge"
+
+    roi_cabecera_ymin: "1"
+    roi_cabecera_ymax: "550"
+    roi_cabecera_xmin: "400"
+    roi_cabecera_xmax: "2250"
 
 
-    roi_cabecera_ymin: "20"
-    roi_cabecera_ymax: "420"
-    roi_cabecera_xmin: "600"
-    roi_cabecera_xmax: "2030"
-
-    desde_x: "0"
-    hasta_x: "2650"
-    desde_y: "130"
-    hasta_y: "3896"
+    desde_x: "50"
+    hasta_x: "2600"
+    desde_y: "340"
+    hasta_y: "3780"
 
     t_line_debouncing: "1000000"
