@@ -23,6 +23,9 @@ maquina:
     perfil_camara : "0mm"
     fuente_iluminaria: "nueva/conector 4pines"
     valor_iluminaria: '198'
+    arduino_main: "china"
+    arduino_bandeja: "china"
+    arduino_auxiliar: "china"    
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
