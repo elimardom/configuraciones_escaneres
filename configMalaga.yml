@@ -4,7 +4,7 @@ paths:
     # path_local_miniaturas: "C:/imagenes_out_test_1/"
     # path_remoto_fotos: "C:/imagenes_out_test_2/"
     # path_remoto_fotos: "Z:/test_escaner_nuevo/"
-    path_remoto_fotos_PRO: "Z:/temporalXXI/"
+    path_remoto_fotos_PRO: "Y:/repositorioTemporalXXI/"
     path_remoto_fotos_TEST: "C:/imagenes_out_ori/"
 
     #bbdd escaneo
