@@ -6,6 +6,7 @@ maquina:
     #                -> 11: maquina2
     #                -> 5: maquina3
     #                -> 8: maquina4
+    id_anydesk: '1274053069'
     puesta_pro: "Julio24"
     ubicacion: "Malaga"
     puesto: "puesto Rosi"
