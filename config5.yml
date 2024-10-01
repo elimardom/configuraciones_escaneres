@@ -1,7 +1,7 @@
 version: 0.1.0
 maquina: 
     numero_maquina: 5
-    numero_maquina_bbdd: '5'
+    numero_maquina_bbdd: '2'
     id_anydesk: "1493206796"
     #maquina_escaneo -> 2: maquina1
     #                -> 11: maquina2
