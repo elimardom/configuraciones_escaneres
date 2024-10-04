@@ -1,4 +1,4 @@
-version: 0.1.0
+version: 0.1.1
 maquina: 
     numero_maquina: 6
     numero_maquina_bbdd: '8'
@@ -9,7 +9,7 @@ maquina:
     puesta_pro: "Septiembre24"
     ubicacion: "Cordoba"
     puesto: "sala escaneo, central"
-novedades_maquina: "Freno resina, ruedas inf 2aET resina, ruedas inf camara resina, chapas laterales de fijacion de distancias,  amortiguacion con abrazaderas de laton"
+    novedades_maquina: "Freno resina, ruedas inf 2aET resina, ruedas inf camara resina, chapas laterales de fijacion de distancias,  amortiguacion con abrazaderas de laton"
     freno: "estrecho/64.5"
     bandeja: "nueva/acero_carbono"
     caja_electronica: "2a version armario"
@@ -27,7 +27,7 @@ novedades_maquina: "Freno resina, ruedas inf 2aET resina, ruedas inf camara resi
     version_sw: "11092024.6"
 
 funcionamiento:
-    modo_interfaz_exe: "Produccionn"
+    modo_interfaz_exe: "Produccion"
     #Test
     #Produccion
     #Ambos
@@ -45,10 +45,10 @@ camera:
     tipo_flanco: "FallingEdge"
 
 
-    roi_cabecera_ymin: "20"
-    roi_cabecera_ymax: "420"
-    roi_cabecera_xmin: "600"
-    roi_cabecera_xmax: "2030"
+    roi_cabecera_ymin: "253"
+    roi_cabecera_ymax: "982"
+    roi_cabecera_xmin: "455"
+    roi_cabecera_xmax: "2360"
 
     desde_x: "80"
     hasta_x: "2750"
