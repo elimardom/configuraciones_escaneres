@@ -1,4 +1,4 @@
-version: 0.1.1
+version: 0.1.2
 maquina: 
     numero_maquina: 6
     numero_maquina_bbdd: '8'
@@ -45,8 +45,8 @@ camera:
     tipo_flanco: "FallingEdge"
 
 
-    roi_cabecera_ymin: "253"
-    roi_cabecera_ymax: "982"
+    roi_cabecera_ymin: "233"
+    roi_cabecera_ymax: "1002"
     roi_cabecera_xmin: "455"
     roi_cabecera_xmax: "2360"
 
