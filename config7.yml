@@ -1,0 +1,59 @@
+version: 0.1.2
+maquina: 
+    numero_maquina: 7
+    numero_maquina_bbdd: '11'
+    #maquina_escaneo -> 2: maquina1
+    #                -> 11: maquina2
+    #                -> 5: maquina3
+    #                -> 8: maquina4
+    puesta_pro: "Septiembre24"
+    ubicacion: "Cordoba"
+    puesto: "sala escaneo, derecha"
+    novedades_maquina: "Freno resina, ruedas inf 2aET resina, ruedas inf camara resina, chapas laterales de fijacion de distancias,  amortiguacion con abrazaderas de laton, chapa folios cortada a laser y doblada a mano"
+    freno: "estrecho/64.5"
+    bandeja: "nueva/acero_inox"
+    caja_electronica: "2a version armario"
+    sensor_dobles: "pepperl fluchs"
+    sensor_disparo_maquina: "omron bueno sin potenciometro"
+    sensor_encoder: "omron potenciometro"
+    acople_volteador: "nuevo_acople_flexible_mejorado_tpu"
+    pc: "pcv3.0"
+    camara: "mars4096-l28/gris"
+    perfil_camara : "a ras"
+    fuente_iluminaria: "nueva/conector 4pines"
+    driver: "dm542t/ stepperonline"
+    motores: "nema17/24 stepper online"
+    ultima_revision: "06.09.2024: etiqueta inteligente"
+    version_sw: "11092024.6"
+
+funcionamiento:
+    modo_interfaz_exe: "Produccionn"
+    #Test
+    #Produccion
+    #Ambos
+camera:
+    model_camera: "mars4096-l28"
+    trigger_camera: "22000"
+    f_camera: "23000"
+    roi_camera_h: "2850"
+    reverse_x_camera: "1"
+    #comunes ambas camaras
+    roi_camera_w: "4096"
+    t_exposicion_camera: "33"
+    t_timeout_camera: "3000"
+    tipo_flanco: "RisingEdge"
+    # tipo_flanco: "FallingEdge"
+
+
+    roi_cabecera_ymin: "20"
+    roi_cabecera_ymax: "420"
+    roi_cabecera_xmin: "600"
+    roi_cabecera_xmax: "2030"
+
+
+    desde_x: "60"
+    hasta_x: "2730"
+    desde_y: "450"
+    hasta_y: "4096"
+
+    t_line_debouncing: "1000000"
