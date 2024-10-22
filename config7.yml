@@ -45,11 +45,15 @@ camera:
     # tipo_flanco: "FallingEdge"
 
 
-    roi_cabecera_ymin: "20"
-    roi_cabecera_ymax: "420"
-    roi_cabecera_xmin: "600"
-    roi_cabecera_xmax: "2030"
-
+    # roi_cabecera_ymin: "20"
+    # roi_cabecera_ymax: "420"
+    # roi_cabecera_xmin: "600"
+    # roi_cabecera_xmax: "2030"
+    
+    roi_cabecera_ymin: "233"
+    roi_cabecera_ymax: "1002"
+    roi_cabecera_xmin: "455"
+    roi_cabecera_xmax: "2360"
 
     desde_x: "60"
     hasta_x: "2730"
