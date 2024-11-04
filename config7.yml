@@ -1,7 +1,7 @@
 version: 0.1.2
 maquina: 
     numero_maquina: 7
-    numero_maquina_bbdd: '11'
+    numero_maquina_bbdd: '8'
     #maquina_escaneo -> 2: maquina1
     #                -> 11: maquina2
     #                -> 5: maquina3
@@ -9,7 +9,7 @@ maquina:
     puesta_pro: "Septiembre24"
     ubicacion: "Cordoba"
     puesto: "sala escaneo, derecha"
-    novedades_maquina: "Freno resina, ruedas inf 2aET resina, ruedas inf camara resina, chapas laterales de fijacion de distancias,  amortiguacion con abrazaderas de laton, chapa folios cortada a laser y doblada a mano"
+    novedades_maquina: "Freno tpu normal, ruedas inf 2aET resina, ruedas inf camara resina, chapas laterales de fijacion de distancias,  amortiguacion con abrazaderas de laton"
     freno: "estrecho/64.5"
     bandeja: "nueva/acero_inox"
     caja_electronica: "2a version armario"
@@ -21,13 +21,14 @@ maquina:
     camara: "mars4096-l28/gris"
     perfil_camara : "a ras"
     fuente_iluminaria: "nueva/conector 4pines"
+    valor_iluminaria: "199"
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
     ultima_revision: "06.09.2024: etiqueta inteligente"
     version_sw: "22102024.3"
 
 funcionamiento:
-    modo_interfaz_exe: "Produccionn"
+    modo_interfaz_exe: "Produccion"
     #Test
     #Produccion
     #Ambos
