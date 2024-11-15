@@ -46,20 +46,20 @@ camera:
     tipo_flanco: "FallingEdge"
 
 
-    roi_cabecera_ymin: "233"
+    roi_cabecera_ymin: "333"
     roi_cabecera_ymax: "1002"
-    roi_cabecera_xmin: "455"
-    roi_cabecera_xmax: "2360"
+    roi_cabecera_xmin: "800"
+    roi_cabecera_xmax: "2260"
 
-    #desde_x: "80"
-    #hasta_x: "2750"
-    #desde_y: "350"
-    #hasta_y: "3885"
+    desde_x: "80"
+    hasta_x: "2750"
+    desde_y: "350"
+    hasta_y: "3885"
 
-    desde_x: "0"
-    hasta_x: "2850"
-    desde_y: "0"
-    hasta_y: "4096"
+    # desde_x: "0"
+    # hasta_x: "2850"
+    # desde_y: "0"
+    # hasta_y: "4096"
 
     t_line_debouncing: "1000000"
 
