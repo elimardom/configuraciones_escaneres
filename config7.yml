@@ -53,7 +53,7 @@ camera:
 
     desde_x: "60"
     hasta_x: "2730"
-    desde_y: "450"
+    desde_y: "400"
     hasta_y: "4096"
 
     # desde_x: "0"
