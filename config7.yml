@@ -34,7 +34,7 @@ funcionamiento:
     #Ambos
 camera:
     model_camera: "mars4096-l28"
-    trigger_camera: "21000"
+    trigger_camera: "19000"
     f_camera: "23000"
     roi_camera_h: "2850"
     reverse_x_camera: "1"
