@@ -56,9 +56,14 @@ camera:
     roi_cabecera_xmin: "455"
     roi_cabecera_xmax: "2360"
 
-    desde_x: "60"
-    hasta_x: "2730"
-    desde_y: "450"
+    # desde_x: "60"
+    # hasta_x: "2730"
+    # desde_y: "450"
+    # hasta_y: "4096"
+
+    desde_x: "0"
+    hasta_x: "2850"
+    desde_y: "0"
     hasta_y: "4096"
 
     t_line_debouncing: "1000000"
