@@ -51,10 +51,10 @@ camera:
     roi_cabecera_xmin: "800"
     roi_cabecera_xmax: "2260"
 
-    desde_x: "80"
+    desde_x: "100"
     hasta_x: "2750"
-    desde_y: "350"
-    hasta_y: "3885"
+    desde_y: "400"
+    hasta_y: "3935"
 
     # desde_x: "0"
     # hasta_x: "2850"
