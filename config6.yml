@@ -56,6 +56,12 @@ camera:
     roi_cabecera_xmin: "700"
     roi_cabecera_xmax: "2000"
 
+    roi_cod_dispensacion_ymin: "400"
+    roi_cod_dispensacion_ymax: "900"
+    roi_cod_dispensacion_xmin: "1700"
+    roi_cod_dispensacion_xmax: "2500"
+    
+
     desde_x: "100"
     hasta_x: "2750"
     desde_y: "400"
