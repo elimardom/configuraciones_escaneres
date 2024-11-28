@@ -47,10 +47,21 @@ camera:
     # tipo_flanco: "FallingEdge"
 
     
-    roi_cabecera_ymin: "233"
-    roi_cabecera_ymax: "802"
-    roi_cabecera_xmin: "755"
-    roi_cabecera_xmax: "2160"
+    # roi_cabecera_ymin: "233"
+    # roi_cabecera_ymax: "802"
+    # roi_cabecera_xmin: "755"
+    # roi_cabecera_xmax: "2160"
+
+    roi_cabecera_ymin: "50"
+    roi_cabecera_ymax: "400"
+    roi_cabecera_xmin: "700"
+    roi_cabecera_xmax: "2000"
+
+    roi_cod_dispensacion_ymin: "400"
+    roi_cod_dispensacion_ymax: "900"
+    roi_cod_dispensacion_xmin: "1700"
+    roi_cod_dispensacion_xmax: "2500"
+    
 
     desde_x: "60"
     hasta_x: "2730"
