@@ -25,7 +25,8 @@ maquina:
     driver: "tb6600/ 2as Marcas"
     motores: "amazon/2as Marcas"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
-    version_sw: "12092024.4"
+    version_sw: "28112024.2"
+    # version_sw: "12092024.4"
 
 funcionamiento:
     modo_interfaz_exe: "Produccionn"
@@ -46,11 +47,21 @@ camera:
     # tipo_flanco: "FallingEdge"
 
 
-    roi_cabecera_ymin: "20"
-    roi_cabecera_ymax: "520"
-    roi_cabecera_xmin: "600"
-    roi_cabecera_xmax: "2030"
+    # roi_cabecera_ymin: "20"
+    # roi_cabecera_ymax: "520"
+    # roi_cabecera_xmin: "600"
+    # roi_cabecera_xmax: "2030"
 
+    roi_cabecera_ymin: "50"
+    roi_cabecera_ymax: "400"
+    roi_cabecera_xmin: "700"
+    roi_cabecera_xmax: "2000"
+
+    roi_cod_dispensacion_ymin: "400"
+    roi_cod_dispensacion_ymax: "900"
+    roi_cod_dispensacion_xmin: "1700"
+    roi_cod_dispensacion_xmax: "2500"
+    
     desde_x: "0"
     hasta_x: "2725"
     desde_y: "150"
