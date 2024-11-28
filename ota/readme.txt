@@ -35,3 +35,6 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 12092024_v4 auto updates ota / config sync Git
 19092024_v1 readme.txt descargar de la nube con las notas de version
 19092024_v2 test
+04112024_v1 auto updates ota / config sync Git
+28112024_v3 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
+28112024_v4 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
