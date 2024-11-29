@@ -38,3 +38,5 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 04112024_v1 auto updates ota / config sync Git
 28112024_v3 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
 28112024_v4 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
+28112024_v5 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
+29112024_v1 log v2 solo se rescata si no existe en local / recompilamos launcher con error sys.exit()
