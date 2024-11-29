@@ -50,10 +50,20 @@ camera:
     tipo_flanco: "RisingEdge"
 
 
-    roi_cabecera_ymin: "20"
-    roi_cabecera_ymax: "560"
-    roi_cabecera_xmin: "400"
-    roi_cabecera_xmax: "2400"
+    # roi_cabecera_ymin: "20"
+    # roi_cabecera_ymax: "560"
+    # roi_cabecera_xmin: "400"
+    # roi_cabecera_xmax: "2400"
+
+    roi_cabecera_ymin: "50"
+    roi_cabecera_ymax: "400"
+    roi_cabecera_xmin: "700"
+    roi_cabecera_xmax: "2000"
+
+    roi_cod_dispensacion_ymin: "400"
+    roi_cod_dispensacion_ymax: "900"
+    roi_cod_dispensacion_xmin: "1700"
+    roi_cod_dispensacion_xmax: "2500"
 
     desde_x: "0"
     hasta_x: "2650"
