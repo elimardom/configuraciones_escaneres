@@ -6,6 +6,7 @@ paths:
     # path_remoto_fotos: "Z:/test_escaner_nuevo/"
     path_remoto_fotos_PRO: "Y:/repositorioTemporalXXI/"
     path_remoto_fotos_TEST: "C:/imagenes_out_ori/"
+    path_remoto_log : "Y:/sw-escaneo/"
 
     #bbdd escaneo
 sqlserver_minox:
