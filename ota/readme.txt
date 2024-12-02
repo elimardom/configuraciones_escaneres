@@ -39,4 +39,8 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 28112024_v3 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
 28112024_v4 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
 28112024_v5 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
-29112024_v1 log v2 solo se rescata si no existe en local / recompilamos launcher con error sys.exit()
+29112024_v1 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
+29112024_v1 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
+29112024_v2 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
+29112024_v3 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
+02122024_v1 bug paquete duplicado si falla lectura cabecera -1 o -2
