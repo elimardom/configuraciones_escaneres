@@ -29,7 +29,7 @@ maquina:
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
-    version_sw: "03122024.1"
+    version_sw: "03122024.2"
     #"12092024.2"
 
 funcionamiento:
@@ -56,18 +56,18 @@ camera:
     # roi_cabecera_xmax: "2400"
 
     roi_cabecera_ymin: "50"
-    roi_cabecera_ymax: "400"
+    roi_cabecera_ymax: "550"
     roi_cabecera_xmin: "700"
     roi_cabecera_xmax: "2000"
 
     roi_cod_dispensacion_ymin: "400"
-    roi_cod_dispensacion_ymax: "900"
+    roi_cod_dispensacion_ymax: "950"
     roi_cod_dispensacion_xmin: "1700"
     roi_cod_dispensacion_xmax: "2500"
 
     desde_x: "0"
     hasta_x: "2650"
-    desde_y: "130"
+    desde_y: "200"
     hasta_y: "3896"
 
     t_line_debouncing: "1000000"
