@@ -46,3 +46,4 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 02122024_v1 bug paquete duplicado si falla lectura cabecera -1 o -2
 02122024_v2 bug farmacias desordenadas error marcado con muchos errores
 03122024_v1 print hojas para depurar errores
+03122024_v2 error fallan todas las lecturas de cabecera
