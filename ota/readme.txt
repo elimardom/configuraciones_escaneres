@@ -45,3 +45,4 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 29112024_v3 control_errores mejorado / nuevo logv2 mejorado / log compartido en repositorio de cada maquina
 02122024_v1 bug paquete duplicado si falla lectura cabecera -1 o -2
 02122024_v2 bug farmacias desordenadas error marcado con muchos errores
+03122024_v1 print hojas para depurar errores
