@@ -47,3 +47,4 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 02122024_v2 bug farmacias desordenadas error marcado con muchos errores
 03122024_v1 print hojas para depurar errores
 03122024_v2 error fallan todas las lecturas de cabecera
+03122024_v3 error corregido sqlite + codigo_caja_completo revisado
