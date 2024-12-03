@@ -25,7 +25,7 @@ maquina:
     driver: "tb6600/ 2as Marcas"
     motores: "amazon/2as Marcas"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
-    version_sw: "02122024.2"
+    version_sw: "03122024.2"
     # version_sw: "12092024.4"
 
 funcionamiento:
