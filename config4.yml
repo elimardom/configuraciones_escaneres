@@ -29,7 +29,7 @@ maquina:
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
-    version_sw: "03122024.3"
+    version_sw: "04122024.1"
     # version_sw: "16092024.2"
 
 funcionamiento:
