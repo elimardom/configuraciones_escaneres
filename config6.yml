@@ -28,7 +28,7 @@ maquina:
     # 22102024.3
     
 funcionamiento:
-    modo_interfaz_exe: "Produccion"
+    modo_interfaz_exe: "Produccionn"
     #Test
     #Produccion
     #Ambos
