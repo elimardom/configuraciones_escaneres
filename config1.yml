@@ -29,7 +29,7 @@ maquina:
     # version_sw: "12092024.4"
 
 funcionamiento:
-    modo_interfaz_exe: "Produccionn"
+    modo_interfaz_exe: "Produccion"
     #Test
     #Produccion
     #Ambos
