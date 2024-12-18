@@ -24,7 +24,7 @@ maquina:
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
     ultima_revision: "06.09.2024: etiqueta inteligente"
-    version_sw: "04122024.1"
+    version_sw: "18122024.1"
     # 22102024.3
     
 funcionamiento:
