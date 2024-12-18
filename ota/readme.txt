@@ -49,3 +49,6 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 03122024_v2 error fallan todas las lecturas de cabecera
 03122024_v3 error corregido sqlite + codigo_caja_completo revisado
 04122024_v1 error sqlserver con cerrar caja , reintento sqlite, copyfile .db al repositorio sync
+17122024_v1 error sqlserver con cerrar caja , reintento sqlite, copyfile .db al repositorio sync
+17122024_v2 mejora algoritmo de pendientes, 
+17122024_v3 mejora algoritmo de pendientes, version correcta en hmi
