@@ -1,7 +1,7 @@
 version: 0.1.2
 maquina: 
     numero_maquina: 8
-    numero_maquina_bbdd: '11'
+    numero_maquina_bbdd: '2'
     #maquina_escaneo -> 2: maquina1
     #                -> 11: maquina2
     #                -> 5: maquina3
