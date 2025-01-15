@@ -12,7 +12,7 @@ maquina:
     novedades_maquina: "Freno tpu normal, ruedas inf 2aET tpu90, ruedas inf camara tpu90, chapas laterales de fijacion de distancias,  amortiguacion con abrazaderas de laton"
     freno: "estrecho/64.5/versionNoviembre/2paredes/sinTopBottom"
     bandeja: "nueva/acero_inox"
-    caja_electronica: "2a version armario"
+    caja_electronica: "2a version armario -- OJO: DRIVER INTERCAMBIADOS POR ERROR EN INSTALACION DE CAJA"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "schneider sin potenciometro"
     sensor_encoder: "schneider sin potenciometro"
