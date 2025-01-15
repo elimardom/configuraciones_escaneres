@@ -69,9 +69,9 @@ camera:
     #desde_y: "400"
     #hasta_y: "4096"
 
-    desde_x: "0"
-    hasta_x: "2850"
-    desde_y: "0"
-    hasta_y: "4096"
+    desde_x: "110"
+    hasta_x: "2770"
+    desde_y: "350"
+    hasta_y: "3900"
 
     t_line_debouncing: "1000000"
