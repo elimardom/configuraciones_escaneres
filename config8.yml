@@ -70,8 +70,8 @@ camera:
     #hasta_y: "4096"
 
     desde_x: "0"
-    hasta_x: "0"
+    hasta_x: "2850"
     desde_y: "0"
-    hasta_y: "0"
+    hasta_y: "4096"
 
     t_line_debouncing: "1000000"
