@@ -8,7 +8,7 @@ maquina:
     #                -> 8: maquina4
     puesta_pro: "Enero25"
     ubicacion: "Cordoba"
-    puesto: "sala escaneo, derecha"
+    puesto: "sala escaneo, izquierda"
     novedades_maquina: "Freno tpu normal, ruedas inf 2aET resina, ruedas inf camara resina, chapas laterales de fijacion de distancias,  amortiguacion con abrazaderas de laton"
     freno: "estrecho/64.5/versionNoviembre/2paredes/sinTopBottom"
     bandeja: "nueva/acero_inox"
@@ -21,7 +21,7 @@ maquina:
     camara: "mars4096-l28/gris"
     perfil_camara : "a ras"
     fuente_iluminaria: "nueva/conector 4pines"
-    valor_iluminaria: "199"
+    valor_iluminaria: "190"
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
     ultima_revision: "06.09.2024: etiqueta inteligente"
@@ -30,13 +30,13 @@ maquina:
     #22102024.3
 
 funcionamiento:
-    modo_interfaz_exe: "Produccion"
+    modo_interfaz_exe: "Produccionn"
     #Test
     #Produccion
     #Ambos
 camera:
     model_camera: "mars4096-l28"
-    trigger_camera: "19000"
+    trigger_camera: "24000"
     f_camera: "23000"
     roi_camera_h: "2850"
     reverse_x_camera: "1"
@@ -64,14 +64,14 @@ camera:
     roi_cod_dispensacion_xmax: "2500"
     
 
-    desde_x: "60"
-    hasta_x: "2730"
-    desde_y: "400"
-    hasta_y: "4096"
+    #desde_x: "60"
+    #hasta_x: "2730"
+    #desde_y: "400"
+    #hasta_y: "4096"
 
-    # desde_x: "0"
-    # hasta_x: "2850"
-    # desde_y: "0"
-    # hasta_y: "4096"
+    desde_x: "0"
+    hasta_x: "0"
+    desde_y: "0"
+    hasta_y: "0"
 
     t_line_debouncing: "1000000"
