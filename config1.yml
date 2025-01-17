@@ -1,11 +1,11 @@
 version: 0.1.0
 maquina: 
     numero_maquina: 1
-    numero_maquina_bbdd: '2'
-    #maquina_escaneo -> 2: maquina1
-    #                -> 11: maquina2
-    #                -> 5: maquina3
-    #                -> 8: maquina4
+    numero_maquina_bbdd: '5'
+    #maquina_escaneo -> 2: maquina8
+    #                -> 11: maquina7
+    #                -> 8: maquina6
+    #                -> 5: maquina1 (reserva)
     puesta_pro: "febrero24"
     ubicacion: "Cordoba"
     puesto: "sala_escaneo/felipe"
