@@ -30,7 +30,7 @@ maquina:
     #22102024.3
 
 funcionamiento:
-    modo_interfaz_exe: "Produccionn"
+    modo_interfaz_exe: "Produccion"
     #Test
     #Produccion
     #Ambos
@@ -44,8 +44,8 @@ camera:
     roi_camera_w: "4096"
     t_exposicion_camera: "33"
     t_timeout_camera: "3000"
-    tipo_flanco: "RisingEdge"
-    # tipo_flanco: "FallingEdge"
+    #tipo_flanco: "RisingEdge"
+    tipo_flanco: "FallingEdge"
 
     
     # roi_cabecera_ymin: "233"
