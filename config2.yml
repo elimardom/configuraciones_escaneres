@@ -9,7 +9,7 @@ maquina:
     puesta_pro: "febrero24"
     ubicacion: "Cordoba"
     puesto: "sala_escaneo/eladia"
-    novedades_maquina: "prototipo2 eladia: / driver y pp antiguos "
+    novedades_maquina: "está en mantenimiento completo"
     freno: "estrecho/64.5"
     bandeja: "nueva/acero_carbono"
     caja_electronica: "antigua"
@@ -26,7 +26,7 @@ maquina:
     motores: "amazon/2as Marcas"
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     #version_sw: "04122024.1"
-    version_sw: "18122024.1"
+    version_sw: "20012025.1"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'    
 
 funcionamiento:
