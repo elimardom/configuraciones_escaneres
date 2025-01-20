@@ -55,3 +55,4 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 18122024_v1 recoger OTA complementos sw que necesite la version
 18122024_v2 recompilada: recoger OTA complementos sw que necesite la version
 20012025_v1 borrar caja deja los paquetes como reescaneados en la sqlite y optimización de algoritmo de búsqueda de pendientes para cuando todos los numeros son -1
+20012025_v2 faltaba la librería git y ya se ha arreglado
