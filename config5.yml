@@ -35,7 +35,7 @@ maquina:
     # version_sw: "16092024.2"
 
 funcionamiento:
-    modo_interfaz_exe: "Produccionn"
+    modo_interfaz_exe: "Produccion"
     #Test
     #Produccion
     #Ambos
@@ -69,7 +69,7 @@ camera:
 
     desde_x: "0"
     hasta_x: "2650"
-    desde_y: "240"
+    desde_y: "250"
     hasta_y: "3820"
 
     t_line_debouncing: "1000000"
