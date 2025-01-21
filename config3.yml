@@ -35,7 +35,7 @@ maquina:
     #"12092024.2"
 
 funcionamiento:
-    modo_interfaz_exe: "Produccion"
+    modo_interfaz_exe: "Produccionn"
     #Test
     #Produccion
     #Ambos
