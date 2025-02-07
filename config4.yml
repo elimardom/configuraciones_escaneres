@@ -71,7 +71,7 @@ camera:
     desde_x: "50"
     hasta_x: "2600"
     #desde_y: "340"
-    desde_y: "270"
+    desde_y: "250"
     hasta_y: "3780"
 
     t_line_debouncing: "1000000"
