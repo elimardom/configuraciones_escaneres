@@ -6,7 +6,7 @@ maquina:
     #                -> 11: maquina7
     #                -> 8: maquina6
     #                -> 5: maquina1 (reserva)
-    puesta_pro: "febrero24"
+    puesta_pro: "febrero24 // repuesto cordoba Febrero25"
     ubicacion: "Cordoba"
     puesto: "sala_escaneo/felipe"
     novedades_maquina: "prototipo1 felipe: estructura mas larga / driver y pp antiguos "
