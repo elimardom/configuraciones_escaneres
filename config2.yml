@@ -27,7 +27,9 @@ maquina:
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     #version_sw: "04122024.1"
     version_sw: "20012025.2"
-    complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'    
+    complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'  
+    rodillo_inferior_2etapa: "tpu 95a con paredes"
+    rodillos_inferior_camara: "tpu 95a con paredes"
 
 funcionamiento:
     modo_interfaz_exe: "Produccionn"
