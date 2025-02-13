@@ -6,7 +6,7 @@ maquina:
     #                -> 11: maquina2
     #                -> 5: maquina3
     #                -> 8: maquina4
-    puesta_pro: "febrero24"
+    puesta_pro: "febrero24 // maq actualizada marzo25"
     ubicacion: "Cordoba"
     puesto: "sala_escaneo/eladia"
     novedades_maquina: "está en mantenimiento completo"
