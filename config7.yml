@@ -27,6 +27,8 @@ maquina:
     ultima_revision: "06.09.2024: etiqueta inteligente"
     version_sw: "07022025.1"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'
+    rodillo_inferior_2etapa: "resina flex"
+    rodillos_inferior_camara: "resina flex"        
     #22102024.3
 
 funcionamiento:
