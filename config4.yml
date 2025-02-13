@@ -13,7 +13,7 @@ maquina:
     novedades_maquina: ""
     freno: "estrecho/64.5"
     bandeja: "nueva/acero_inox"
-    caja_electronica: "2a version armario"
+    caja_electronica: "2a version armario  // opto 1 canal 4 quemado ?¿ Diciembre24 --> opto2"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "xub4ananl2"
     sensor_encoder: "omron"
