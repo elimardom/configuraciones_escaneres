@@ -20,7 +20,7 @@ maquina:
     acople_volteador: "antiguo_gordo_completo"
     pc: "pcv3.0"
     camara: "mars4096-l28/naranja"
-    perfil_camara : "0mm"
+    perfil_camara : "0mm --> 22.5mm febrero25"
     fuente_iluminaria: "nueva/conector 4pines"
     valor_iluminaria: '208'
     arduino_main: "elegoo"
@@ -32,6 +32,8 @@ maquina:
     #version_sw: "04122024.1"
     version_sw: "20012025.2"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'    
+    rodillo_inferior_2etapa: "tpu 82a naranja sin paredes"
+    rodillos_inferior_camara: "tpu 82a naranja sin paredes"        
     #"12092024.2"
 
 funcionamiento:
