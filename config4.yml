@@ -31,7 +31,9 @@ maquina:
     ultima_revision: "12.09.2024: actualizaciones ota / sync config"
     #version_sw: "04122024.1"
     version_sw: "20012025.2"
-    complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'    
+    complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'   
+    rodillo_inferior_2etapa: "tpu 82a naranja sin paredes"
+    rodillos_inferior_camara: "tpu 82a naranja sin paredes"    
     # version_sw: "16092024.2"
 
 funcionamiento:
