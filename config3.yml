@@ -12,7 +12,7 @@ maquina:
     puesto: "esquina ventana"
     novedades_maquina: "caja de electronica v1 nueva mas pequeña"
     freno: "estrecho/64.5"
-    bandeja: "antigua"
+    bandeja: "inoxidable"
     caja_electronica: "1a version armario"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "xub4ananl2"
@@ -28,16 +28,16 @@ maquina:
     arduino_auxiliar: "elegoo"
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
-    ultima_revision: "12.09.2024: actualizaciones ota / sync config"
-    #version_sw: "04122024.1"
-    version_sw: "20012025.2"
+    ultima_revision: "19.02.2025: nuevo sistema acoples 1ª y 2ª etapas. 2aET inferior cambiada. Firmware bandeja actualizado"
+
+    version_sw: "07022025.1"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'    
-    rodillo_inferior_2etapa: "tpu 82a naranja sin paredes"
-    rodillos_inferior_camara: "tpu 82a naranja sin paredes"        
-    #"12092024.2"
+    rodillo_inferior_2etapa: "tpu 95a gris con paredes"
+    rodillos_inferior_camara: "tpu 82a azul sin paredes"        
+    
 
 funcionamiento:
-    modo_interfaz_exe: "Produccion"
+    modo_interfaz_exe: "Produccionn"
     #Test
     #Produccion
     #Ambos
