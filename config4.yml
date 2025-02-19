@@ -12,7 +12,7 @@ maquina:
     puesto: "puesto central"
     novedades_maquina: ""
     freno: "estrecho/64.5"
-    bandeja: "nueva/acero_inox"
+    bandeja: "nueva/acero_inox --> inox arroyo Febrero25"
     caja_electronica: "2a version armario  // opto 1 canal 4 quemado ?¿ Diciembre24 --> opto2"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "xub4ananl2"
@@ -28,7 +28,7 @@ maquina:
     arduino_auxiliar: "china"    
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
-    ultima_revision: "12.09.2024: actualizaciones ota / sync config || 19.02.2025: bandeja inoxidable nueva, nuevo sistema acoples 1ª y 2ªET, eje inferior 2aET nuevo"
+    ultima_revision: "12.09.2024: actualizaciones ota / sync config || 19.02.2025: bandeja inoxidable nueva, nuevo sistema acoples 1ª y 2ªET, eje inferior 2aET nuevo. Cambio bandeja"
     #version_sw: "04122024.1"
     version_sw: "07022025.1"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'   
