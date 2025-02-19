@@ -28,16 +28,16 @@ maquina:
     arduino_auxiliar: "china"    
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
-    ultima_revision: "12.09.2024: actualizaciones ota / sync config"
+    ultima_revision: "12.09.2024: actualizaciones ota / sync config || 19.02.2025: bandeja inoxidable nueva, nuevo sistema acoples 1ª y 2ªET, eje inferior 2aET nuevo"
     #version_sw: "04122024.1"
-    version_sw: "20012025.2"
+    version_sw: "07022025.1"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'   
     rodillo_inferior_2etapa: "tpu 82a naranja sin paredes"
     rodillos_inferior_camara: "tpu 82a naranja sin paredes"    
     # version_sw: "16092024.2"
 
 funcionamiento:
-    modo_interfaz_exe: "Produccion"
+    modo_interfaz_exe: "Produccionn"
     #Test
     #Produccion
     #Ambos
