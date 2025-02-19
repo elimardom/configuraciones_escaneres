@@ -28,9 +28,10 @@ maquina:
     arduino_auxiliar: "china"    
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
-    ultima_revision: "12.09.2024: actualizaciones ota / sync config"
+    ultima_revision: "12.09.2024: actualizaciones ota / sync config // 19.02.2025: "
     #version_sw: "04122024.1"
-    version_sw: "20012025.2"
+    # version_sw: "20012025.2"
+    version_sw: "07022025.1"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'   
     rodillo_inferior_2etapa: "tpu 82a naranja sin paredes"
     rodillos_inferior_camara: "resina flex"        
