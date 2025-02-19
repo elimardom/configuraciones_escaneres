@@ -28,7 +28,7 @@ maquina:
     arduino_auxiliar: "china"    
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
-    ultima_revision: "12.09.2024: actualizaciones ota / sync config // "19.02.2025: nuevo sistema acoples 1ª y 2ª etapas. 2aET inferior cambiada"
+    ultima_revision: "12.09.2024: actualizaciones ota / sync config // 19.02.2025: nuevo sistema acoples 1ª y 2ª etapas. 2aET inferior cambiada"
     #version_sw: "04122024.1"
     # version_sw: "20012025.2"
     version_sw: "07022025.1"
