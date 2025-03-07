@@ -12,7 +12,7 @@ maquina:
     novedades_maquina: "Freno tpu normal, ruedas inf 2aET resina, ruedas inf camara resina, chapas laterales de fijacion de distancias,  amortiguacion con abrazaderas de laton"
     freno: "estrecho/64.5/versionNoviembre/2paredes/sinTopBottom"
     bandeja: "nueva/acero_inox"
-    caja_electronica: "2a version armario / canal 4 opto quemado ?¿ Diciembre 2024 --> opto2"
+    caja_electronica: "2a version armario / canal 4 opto quemado ?¿ Diciembre 2024 --> opto2 / canal 4 opto2 volteador quemado de nuevo Marzo 2025 - cambiamos de canal antes de que de problemas"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "omron bueno sin potenciometro"
     sensor_encoder: "omron potenciometro"
