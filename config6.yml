@@ -31,7 +31,7 @@ maquina:
     rodillos_inferior_camara: "resina flex"    
     
 funcionamiento:
-    modo_interfaz_exe: "Produccionn"
+    modo_interfaz_exe: "Produccion"
     #Test
     #Produccion
     #Ambos
