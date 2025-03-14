@@ -25,8 +25,8 @@ maquina:
     driver: "dm542t/ stepperonlin" #"tb6600/ 2as Marcas"
     motores: "nema17/24 stepper online" #"amazon/2as Marcas"
     ultima_revision: "26/04/2025" #"12.09.2024: actualizaciones ota / sync config"
-    version_sw: "04122024.1"
-    # version_sw: "07022025.1"
+    # version_sw: "04122024.1"
+    version_sw: "07022025.1"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'  
     rodillo_inferior_2etapa: "tpu 95a con paredes"
     rodillos_inferior_camara: "tpu 95a con paredes"
