@@ -24,7 +24,7 @@ maquina:
     valor_iluminaria: "190"
     driver: "dm542t/ stepperonline"
     motores: "nema17/24 stepper online"
-    ultima_revision: "06.09.2024: etiqueta inteligente"
+    ultima_revision: "06.09.2024: etiqueta inteligente / 27.03.2025: cambiamos optos por los correctos 24->5V"
     version_sw: "07022025.1"
     complementos_sw: '{"fin_paquete_desordenado.png":"/logo/fin_paquete_desordenado.png","fin_paquete_sin_codigos.png":"/logo/fin_paquete_sin_codigos.png"}'
     rodillo_inferior_2etapa: "tpu 95a con paredes"
