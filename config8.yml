@@ -13,6 +13,7 @@ maquina:
     freno: "estrecho/64.5/versionNoviembre/2paredes/sinTopBottom"
     bandeja: "nueva/acero_inox"
     caja_electronica: "2a version armario -- OJO: DRIVER INTERCAMBIADOS POR ERROR EN INSTALACION DE CAJA"
+    optos: "24->5V 27.03.25"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "schneider sin potenciometro"
     sensor_encoder: "schneider sin potenciometro"
