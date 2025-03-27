@@ -14,6 +14,7 @@ maquina:
     freno: "estrecho/64.5"
     bandeja: "inoxidable"
     caja_electronica: "1a version armario"
+    optos: "24->5V desde Fabrica"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "xub4ananl2"
     sensor_encoder: "negro ajustable"
