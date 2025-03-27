@@ -13,6 +13,7 @@ maquina:
     freno: "version sin paredes" #"estrecho/64.5"
     bandeja: "acero_inoxidable"
     caja_electronica: "nueva"
+    optos: "24->5V 27.03.25"
     sensor_dobles: "pepperl fuchs"
     sensor_disparo_maquina: "pepperl fuchs"
     sensor_encoder: "pepperl fuchs"
