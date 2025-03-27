@@ -13,6 +13,7 @@ maquina:
     freno: "estrecho/64.5/versionNoviembre/2paredes/sinTopBottom"
     bandeja: "nueva/acero_carbono"
     caja_electronica: "2a version armario"
+    optos: "24->5V 27.03.25"
     sensor_dobles: "pepperl fluchs"
     sensor_disparo_maquina: "pepperl fluchs potenciometro"
     sensor_encoder: "omron"
