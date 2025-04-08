@@ -58,3 +58,6 @@ correcciones version: bug ultima foto al seleccionar boton 'ultim'
 20012025_v2 faltaba la librería git y ya se ha arreglado
 07022025_v1 faltaba la librería git y ya se ha arreglado
 07042025_v1 correccion bug seleccion puerto arduino
+07042025_v1 correccion bug seleccion puerto arduino
+07042025_v1 correccion bug seleccion puerto arduino
+07042025_v1 correccion bug seleccion puerto arduino
